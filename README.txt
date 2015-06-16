@@ -1,5 +1,5 @@
 ## Author: nabello
-## Git URL:
+## Git URL: https://github.com/nabello/magento-build-tool.git
 ## Summary: This project is a build tool for Magento. It contains a main script and must be configured as the
 ## sample configuration file provided in config.ini.sample
 
