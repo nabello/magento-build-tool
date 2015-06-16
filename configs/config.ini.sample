@@ -1,0 +1,25 @@
+[builds]
+
+    [[production]]
+        server_name =
+        server_host =
+        server_user =
+        ssh_key_path =
+        source_build_path =
+        destination_build_path =
+
+    [[staging]]
+        server_name =
+        server_host =
+        server_user =
+        ssh_key_path =
+        source_build_path =
+        destination_build_path =
+
+    [[development]]
+        server_name =
+        server_host =
+        server_user =
+        ssh_key_path =
+        source_build_path =
+        destination_build_path =

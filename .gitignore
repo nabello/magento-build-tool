@@ -1,0 +1,3 @@
+configs/*.ini
+.DS_Store
+.idea/*
